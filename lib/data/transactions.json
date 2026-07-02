@@ -1,0 +1,17 @@
+[
+  { "id": "t1", "date": "2025-06-28", "description": "Netflix Subscription", "category": "Entertainment", "amount": 15.99, "type": "expense" },
+  { "id": "t2", "date": "2025-06-27", "description": "Salary — June", "category": "Income", "amount": 5200.00, "type": "income" },
+  { "id": "t3", "date": "2025-06-26", "description": "Whole Foods Market", "category": "Food", "amount": 87.43, "type": "expense" },
+  { "id": "t4", "date": "2025-06-25", "description": "Uber Ride", "category": "Transport", "amount": 14.20, "type": "expense" },
+  { "id": "t5", "date": "2025-06-24", "description": "Freelance Project — UI Kit", "category": "Income", "amount": 850.00, "type": "income" },
+  { "id": "t6", "date": "2025-06-23", "description": "AWS Cloud Services", "category": "Utilities", "amount": 42.80, "type": "expense" },
+  { "id": "t7", "date": "2025-06-22", "description": "Spotify Premium", "category": "Entertainment", "amount": 9.99, "type": "expense" },
+  { "id": "t8", "date": "2025-06-21", "description": "Chipotle", "category": "Food", "amount": 12.75, "type": "expense" },
+  { "id": "t9", "date": "2025-06-20", "description": "Gym Membership", "category": "Health", "amount": 45.00, "type": "expense" },
+  { "id": "t10", "date": "2025-06-19", "description": "Dividend — AAPL", "category": "Income", "amount": 127.50, "type": "income" },
+  { "id": "t11", "date": "2025-06-18", "description": "Electric Bill", "category": "Utilities", "amount": 93.20, "type": "expense" },
+  { "id": "t12", "date": "2025-06-17", "description": "Amazon Purchase", "category": "Shopping", "amount": 68.99, "type": "expense" },
+  { "id": "t13", "date": "2025-06-15", "description": "Trader Joe's", "category": "Food", "amount": 54.32, "type": "expense" },
+  { "id": "t14", "date": "2025-06-14", "description": "Coffee — Blue Bottle", "category": "Food", "amount": 6.80, "type": "expense" },
+  { "id": "t15", "date": "2025-06-12", "description": "Internet Bill", "category": "Utilities", "amount": 79.99, "type": "expense" }
+]

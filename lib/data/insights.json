@@ -1,0 +1,30 @@
+[
+  {
+    "id": "i1",
+    "title": "Utilities spending alert",
+    "description": "Your Utilities budget is 86% utilized with 12 days left this month. At the current rate, you'll exceed your $250 limit by ~$16. Consider delaying non-critical subscriptions to next cycle.",
+    "type": "warning",
+    "icon": "AlertTriangle"
+  },
+  {
+    "id": "i2",
+    "title": "Strong savings momentum",
+    "description": "You're on track to save $5,646 this month — 12% higher than your 6-month average. Redirecting 20% of that surplus into your emergency fund would reach your 6-month target by August.",
+    "type": "achievement",
+    "icon": "TrendingUp"
+  },
+  {
+    "id": "i3",
+    "title": "Food spending is healthy",
+    "description": "Food expenses are $161 vs. a $400 budget — well within range. You've reduced dining-out frequency by 3 visits compared to May, which saved approximately $45.",
+    "type": "tip",
+    "icon": "Lightbulb"
+  },
+  {
+    "id": "i4",
+    "title": "Diversify your income streams",
+    "description": "Freelance income this month ($850) represents 16% of total earnings. Increasing this to 25% over 3 months could buffer any salary volatility and accelerate your investment contributions.",
+    "type": "tip",
+    "icon": "Zap"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "totalBalance": 24830.57,
+  "totalIncome": 6177.50,
+  "totalExpense": 531.46,
+  "savingsRate": 91.4,
+  "monthlyData": [
+    { "month": "Jan", "income": 5200, "expense": 3100 },
+    { "month": "Feb", "income": 5200, "expense": 2850 },
+    { "month": "Mar", "income": 6050, "expense": 3420 },
+    { "month": "Apr", "income": 5200, "expense": 2990 },
+    { "month": "May", "income": 5800, "expense": 3280 },
+    { "month": "Jun", "income": 6177, "expense": 531 }
+  ]
+}

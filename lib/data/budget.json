@@ -1,0 +1,8 @@
+[
+  { "category": "Food", "allocated": 400, "spent": 161.30 },
+  { "category": "Transport", "allocated": 150, "spent": 14.20 },
+  { "category": "Entertainment", "allocated": 80, "spent": 25.98 },
+  { "category": "Health", "allocated": 100, "spent": 45.00 },
+  { "category": "Utilities", "allocated": 250, "spent": 215.99 },
+  { "category": "Shopping", "allocated": 200, "spent": 68.99 }
+]
